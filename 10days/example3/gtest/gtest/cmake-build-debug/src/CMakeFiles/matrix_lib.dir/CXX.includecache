@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/gtest/gtest/gtest/src/libmatrix/matrix.cpp
+matrix.h
+C:/Users/User/gtest/gtest/gtest/src/libmatrix/matrix.h
+
+C:/Users/User/gtest/gtest/gtest/src/libmatrix/matrix.h
+algorithm
+-
+cassert
+-
+initializer_list
+-
+iostream
+-
+iterator
+-
+vector
+-
+

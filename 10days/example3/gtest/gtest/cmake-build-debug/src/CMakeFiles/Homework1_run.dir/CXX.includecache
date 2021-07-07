@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/gtest/Homework1/src/202011111/HW_202011111.h
+HW.h
+-
+answer.h
+G:/gtest/Homework1/src/202011111/answer.h
+
+G:/gtest/Homework1/src/202011111/answer.h
+limits
+-
+
+G:/gtest/Homework1/src/HW.h
+istream
+-
+202011111/answer.h
+G:/gtest/Homework1/src/202011111/answer.h
+
+G:/gtest/Homework1/src/main.cpp
+iostream
+-
+algorithm
+-
+HW.h
+G:/gtest/Homework1/src/HW.h
+202011111/HW_202011111.h
+G:/gtest/Homework1/src/202011111/HW_202011111.h
+

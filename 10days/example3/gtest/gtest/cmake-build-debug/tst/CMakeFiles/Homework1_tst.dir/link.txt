@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Homework1_tst.dir/HW-test.cc.o CMakeFiles/Homework1_tst.dir/main.cpp.o  -o Homework1_tst  ../src/libHomework1_lib.a ../lib/libgtestd.a -lpthread 

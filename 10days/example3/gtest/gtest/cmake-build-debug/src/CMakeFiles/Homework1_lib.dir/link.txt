@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHomework1_lib.a  CMakeFiles/Homework1_lib.dir/libmatrix/matrix.cpp.o CMakeFiles/Homework1_lib.dir/main.cpp.o
+/usr/bin/ranlib libHomework1_lib.a
